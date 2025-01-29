@@ -1,4 +1,5 @@
-/*
+
+/*// fftools/ffmpeg_opt.c has been moidified for VA Fuzz
  * Copyright (c) 2000-2003 Fabrice Bellard
  *
  * This file is part of FFmpeg.
